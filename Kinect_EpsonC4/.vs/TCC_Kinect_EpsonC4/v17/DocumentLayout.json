@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\TCC2-KinectEpsonC4\\TCC_Kinect_EpsonC4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5762E87-3544-400B-BB5C-55BE633463D3}|TCC_Kinect_EpsonC4.csproj|c:\\tcc2-kinectepsonc4\\tcc_kinect_epsonc4\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5762E87-3544-400B-BB5C-55BE633463D3}|TCC_Kinect_EpsonC4.csproj|solutionrelative:properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|TCC_Kinect_EpsonC4||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5762E87-3544-400B-BB5C-55BE633463D3}|TCC_Kinect_EpsonC4.csproj|c:\\tcc2-kinectepsonc4\\tcc_kinect_epsonc4\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5762E87-3544-400B-BB5C-55BE633463D3}|TCC_Kinect_EpsonC4.csproj|solutionrelative:properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5762E87-3544-400B-BB5C-55BE633463D3}|TCC_Kinect_EpsonC4.csproj|c:\\tcc2-kinectepsonc4\\tcc_kinect_epsonc4\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5762E87-3544-400B-BB5C-55BE633463D3}|TCC_Kinect_EpsonC4.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5762E87-3544-400B-BB5C-55BE633463D3}|TCC_Kinect_EpsonC4.csproj|c:\\tcc2-kinectepsonc4\\tcc_kinect_epsonc4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5762E87-3544-400B-BB5C-55BE633463D3}|TCC_Kinect_EpsonC4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5762E87-3544-400B-BB5C-55BE633463D3}|TCC_Kinect_EpsonC4.csproj|c:\\tcc2-kinectepsonc4\\tcc_kinect_epsonc4\\kinectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5762E87-3544-400B-BB5C-55BE633463D3}|TCC_Kinect_EpsonC4.csproj|solutionrelative:kinectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5762E87-3544-400B-BB5C-55BE633463D3}|TCC_Kinect_EpsonC4.csproj|c:\\tcc2-kinectepsonc4\\tcc_kinect_epsonc4\\formcontrole.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A5762E87-3544-400B-BB5C-55BE633463D3}|TCC_Kinect_EpsonC4.csproj|solutionrelative:formcontrole.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5762E87-3544-400B-BB5C-55BE633463D3}|TCC_Kinect_EpsonC4.csproj|c:\\tcc2-kinectepsonc4\\tcc_kinect_epsonc4\\formcontrole.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5762E87-3544-400B-BB5C-55BE633463D3}|TCC_Kinect_EpsonC4.csproj|solutionrelative:formcontrole.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5762E87-3544-400B-BB5C-55BE633463D3}|TCC_Kinect_EpsonC4.csproj|c:\\tcc2-kinectepsonc4\\tcc_kinect_epsonc4\\formcontrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5762E87-3544-400B-BB5C-55BE633463D3}|TCC_Kinect_EpsonC4.csproj|solutionrelative:formcontrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5762E87-3544-400B-BB5C-55BE633463D3}|TCC_Kinect_EpsonC4.csproj|c:\\tcc2-kinectepsonc4\\tcc_kinect_epsonc4\\formcontrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5762E87-3544-400B-BB5C-55BE633463D3}|TCC_Kinect_EpsonC4.csproj|solutionrelative:formcontrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5762E87-3544-400B-BB5C-55BE633463D3}|TCC_Kinect_EpsonC4.csproj|c:\\tcc2-kinectepsonc4\\tcc_kinect_epsonc4\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|984ae51a-4b21-44e7-822c-dd5e046893ef"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TCC_Kinect_EpsonC4",
+              "DocumentMoniker": "C:\\TCC2-KinectEpsonC4\\TCC_Kinect_EpsonC4\\TCC_Kinect_EpsonC4.csproj",
+              "RelativeDocumentMoniker": "TCC_Kinect_EpsonC4.csproj",
+              "ToolTip": "C:\\TCC2-KinectEpsonC4\\TCC_Kinect_EpsonC4\\TCC_Kinect_EpsonC4.csproj",
+              "RelativeToolTip": "TCC_Kinect_EpsonC4.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-30T00:28:19.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "C:\\TCC2-KinectEpsonC4\\TCC_Kinect_EpsonC4\\Properties\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "Properties\\Settings.Designer.cs",
+              "ToolTip": "C:\\TCC2-KinectEpsonC4\\TCC_Kinect_EpsonC4\\Properties\\Settings.Designer.cs",
+              "RelativeToolTip": "Properties\\Settings.Designer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T00:24:07.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\TCC2-KinectEpsonC4\\TCC_Kinect_EpsonC4\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\TCC2-KinectEpsonC4\\TCC_Kinect_EpsonC4\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "Properties\\Resources.Designer.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAlwCkAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T00:23:57.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\TCC2-KinectEpsonC4\\TCC_Kinect_EpsonC4\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\TCC2-KinectEpsonC4\\TCC_Kinect_EpsonC4\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T00:23:44.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\TCC2-KinectEpsonC4\\TCC_Kinect_EpsonC4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\TCC2-KinectEpsonC4\\TCC_Kinect_EpsonC4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T00:20:03.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KinectManager.cs",
+              "DocumentMoniker": "C:\\TCC2-KinectEpsonC4\\TCC_Kinect_EpsonC4\\KinectManager.cs",
+              "RelativeDocumentMoniker": "KinectManager.cs",
+              "ToolTip": "C:\\TCC2-KinectEpsonC4\\TCC_Kinect_EpsonC4\\KinectManager.cs",
+              "RelativeToolTip": "KinectManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T00:19:49.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormControle.resx",
+              "DocumentMoniker": "C:\\TCC2-KinectEpsonC4\\TCC_Kinect_EpsonC4\\FormControle.resx",
+              "RelativeDocumentMoniker": "FormControle.resx",
+              "ToolTip": "C:\\TCC2-KinectEpsonC4\\TCC_Kinect_EpsonC4\\FormControle.resx",
+              "RelativeToolTip": "FormControle.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-30T00:19:45.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormControle.Designer.cs",
+              "DocumentMoniker": "C:\\TCC2-KinectEpsonC4\\TCC_Kinect_EpsonC4\\FormControle.Designer.cs",
+              "RelativeDocumentMoniker": "FormControle.Designer.cs",
+              "ToolTip": "C:\\TCC2-KinectEpsonC4\\TCC_Kinect_EpsonC4\\FormControle.Designer.cs",
+              "RelativeToolTip": "FormControle.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T00:18:56.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormControle.cs",
+              "DocumentMoniker": "C:\\TCC2-KinectEpsonC4\\TCC_Kinect_EpsonC4\\FormControle.cs",
+              "RelativeDocumentMoniker": "FormControle.cs",
+              "ToolTip": "C:\\TCC2-KinectEpsonC4\\TCC_Kinect_EpsonC4\\FormControle.cs",
+              "RelativeToolTip": "FormControle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T00:19:11.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormControle.cs [Design]",
+              "DocumentMoniker": "C:\\TCC2-KinectEpsonC4\\TCC_Kinect_EpsonC4\\FormControle.cs",
+              "RelativeDocumentMoniker": "FormControle.cs",
+              "ToolTip": "C:\\TCC2-KinectEpsonC4\\TCC_Kinect_EpsonC4\\FormControle.cs [Design]",
+              "RelativeToolTip": "FormControle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T00:19:07.608Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
